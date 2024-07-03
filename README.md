@@ -72,7 +72,13 @@
     ![alt text](image-13.png)
     ![alt text](image-14.png)
 
-
+# ______________________________________________________________________________________________
+# Conclusion
+## To me, EXIST, IN, ALL, ANY, they use for different purpose. So I think they just can compare in some specific use case, but not really good use case. So this just for researching.
+- ### `EXISTS` for checking the condition to run query
+- ### `IN` for checking condition in another table or list
+- ### `ALL` for satisfied all condition like `AND` operator
+- ### `ANY` for satisfied one of all condition like `OR` operator
 
 
 
