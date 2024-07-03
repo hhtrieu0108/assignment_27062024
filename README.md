@@ -17,7 +17,7 @@
 
 - `ANY` : To search in the values of the sub-query to return one of the satisfied conditions.
 
-- `WITH` : Creates a temporary table for a specific purpose.
+- `WITH` : Create CTE(Common Table Expression) for a specific purpose.
 
 ## EXISTS
 
