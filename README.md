@@ -88,6 +88,6 @@
 - ### `IN` for checking condition in another table or list
 - ### `ALL` for satisfied all condition like `AND` operator
 - ### `ANY` for satisfied one of all condition like `OR` operator
-
+## But just about my use case, the `EXISTS` is the `fastest`
 
 
